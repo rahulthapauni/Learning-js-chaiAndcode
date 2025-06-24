@@ -32,3 +32,33 @@
 // let strNum = String(number);
 // console.log(typeof strNum, strNum)
 
+// *************************************************************
+let value = 5;
+let negValue = -value
+// console.log(negValue)
+
+let str1 = "hello "
+let str2 = "Rahul"
+
+let str3 = str1 + str2
+// console.log(str3);
+
+
+// go left to right ( precedence value) ( only question not practically)
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// multiple operation use () to simplify and understanding
+
+
+
+
+// console.log(+true); true converted to 1
+// console.log(true+); //not allowed
+
+// console.log(+"") ;//empty string convert to 0
+
+let num1,num2,num3
+num1 = num2 = num3 = 5;
